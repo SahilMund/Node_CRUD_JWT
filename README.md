@@ -6,7 +6,7 @@
 ## step 1 
     npm install 
 ## step 2 
-    install nodemon 
+    npm install nodemon 
 ## step 3 
     Add your mongodb url ( mongoURL ) in config/key.js 
 ## step 4 
